@@ -1,0 +1,25 @@
+CSC D01 Deliverable #2 Marking Rubric
+
+
+
+__10_ / 10 Clear and detailed explanation of at least 5 bugs/features from the issue list. Demonstrated understanding where each of these bugs is in the code, more or less, and an estimate of work required to address each one.
+
+__3_  / 5 Good arguments for the choice of items to implement in this deliverable.
+
+seems one main reason is it is simple, not very strong reason
+
+_18__ / 25 Correctness.
+
+First issue fully works, the second works partially (break existing functionalities)
+
+__10_ / 10 Quality and documentation of changes/fixes.
+
+__7_ / 10 A well-designed and well-explained acceptance test suite.
+
+Test suite less documented
+
+_18__ / 25 Clear evidence of correctly following the chosen software development process.
+
+Has Github Projects and Issues, but unclear evidences/explanations in report
+
+__15_ / 15 Presentation and Quality of Writing.
